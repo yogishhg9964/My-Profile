@@ -1,8 +1,8 @@
-## Know Me👋
+## Hi there👋
 
 I'm **Yogish HG**, an engineering student passionate about **Full Stack Development** and **AI**. I love exploring innovative solutions and contributing to open-source projects. Let's connect and build something amazing together!
 
-## About Me
+## Know about Me
 
 I'm currently based in **Bengaluru**. As an engineering student, I am constantly learning and evolving in the tech space. My journey in the field of technology is driven by curiosity and a desire to create impactful solutions.
 
@@ -43,4 +43,5 @@ Currently, I don't have any blog posts. Stay tuned for updates!
 
 ## Connect with Me
 
-{"linkedin":"https://www.linkedin.com/in/yogish-hg-b05a88260/","Gmail":"yogishhg057@gmail.com"}
+- linkedin : https://www.linkedin.com/in/yogish-hg-b05a88260/
+- Gmail : yogishhg057@gmail.com
